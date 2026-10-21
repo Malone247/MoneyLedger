@@ -1,0 +1,6 @@
+{
+  "name": "LedgerCraft - Expense & Budget Tracker",
+  "description": "A clean, responsive expense and budget tracking application for managing daily transactions, categorizing expenses, monitoring monthly budgets, and tracking financial health.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
